@@ -1,5 +1,5 @@
 class Celocli < Formula
-  desc "CLI Tool for transacting with the Celo protocol"
+  desc "CLI Tool for interacting with the Celo protocol"
   homepage "https://docs.celo.org/cli"
   url "https://github.com/celo-org/developer-tooling/releases/download/%40celo%2Fcelocli%406.1.0/celocli-v6.1.0-8a5df10-darwin-x64.tar.xz"
   sha256 "6fb41ee26cee95b677d546620236a30c5f2ae95e2fa2afc2fb1e2d22243a6218"
